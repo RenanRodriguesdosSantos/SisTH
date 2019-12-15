@@ -1,0 +1,22 @@
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Controller.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.CopyComplete
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Controller.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.csproj.CopyComplete
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Controller\obj\Debug\SisTHWorks.Controller.pdb

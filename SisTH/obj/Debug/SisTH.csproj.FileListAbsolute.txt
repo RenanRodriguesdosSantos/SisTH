@@ -1,0 +1,127 @@
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.exe.config
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.exe
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Controller.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.frmPrincipal.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.CopyComplete
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.exe
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Modelo.frmCadModelo.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadPadrao.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Modelo.frmLisModelo.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisPadrao.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisEnfermeiro.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadEnfermeiro.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadClassificacao.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisClassificacao.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisCidade.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadCidade.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisPaciente.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmResCidade.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.exe.config
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.exe
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTH.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Controller.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Controller.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadCidade.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadClassificacao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadEnfermeiro.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadPadrao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisCidade.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmLisPadrao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Modelo.frmCadModelo.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Modelo.frmLisModelo.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.frmPrincipal.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\RdlCompile.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\RdlCompile.compiled
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.csproj.CopyComplete
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.exe
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\EnvDTE.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\stdole.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadPaciente.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Login.frmLogin.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Cadastros.frmCadAtendimento.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Consultas.frmConPaciente.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Listas.frmLisAtendimento.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelClassificacao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Listas.frmLisClassificacao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Listas.frmLisEnfermeiro.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Listas.frmLisPaciente.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Modelo.frmRelModelo.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelCidade.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelPadrao.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelPaciente.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelPacienteFiltros.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelAtendimento.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Relatorios.frmRelAtendimentoFiltros.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTH\obj\Debug\SisTH.Forms.Login.frmAlterarSenha.resources

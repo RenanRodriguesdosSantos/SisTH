@@ -1,0 +1,16 @@
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\TADS-4º Periodo\Programação de Sistemas Corporativos\Projeto STH\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\bin\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\bin\Debug\SisTHWorks.Model.pdb
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csprojAssemblyReference.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.Properties.Resources.resources
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csproj.GenerateResource.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.csproj.CoreCompileInputs.cache
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.dll
+C:\Users\Renan Rodrigues\Desktop\SisTriagemHospitalar\SisTHWorks.Model\obj\Debug\SisTHWorks.Model.pdb
